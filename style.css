@@ -21,15 +21,15 @@ li {
 .flex {
     display: flex;
     flex-wrap: wrap;
- }
- 
- .btn{
-    background-color: #F66909 ;
-    border-radius:4px;
-    padding:10px;
-    color:white;
+}
+
+.btn {
+    background-color: #F66909;
+    border-radius: 4px;
+    padding: 10px;
+    color: white;
     display: inline-block;
-    margin-top:20px;
+    margin-top: 20px;
 }
 
 /*header*/
@@ -79,32 +79,54 @@ header {
 .hero {
     height: 100vh;
 }
+
 .hero h2 {
-    font-family: "WindSong", cursive; ;
+    font-family: "WindSong", cursive;
+    ;
     font-size: 130px;
     font-weight: 500;
 }
 
-.h3{ 
+.h3 {
     width: 100%;
     margin-bottom: 20px;
 }
 
-.paragraphe{
+.paragraphe {
     width: 45%;
 }
 
-.bienfaits{
+.bienfaits {
     width: 25%;
 }
 
 
-.sectionbienfaits{
-    padding:50px 50px;
+.sectionbienfaits {
+    padding: 50px 50px;
 }
 
 .panier1 {
     color: white;
     font-size: 16px;
 }
-    
+
+.imgproduits{
+    width: 100%;
+
+}
+
+.produits {
+    background-color: goldenrod;
+}
+
+.Paddingproduits{
+    padding: 16px;
+}
+
+.mt40{
+    margin-top: 40px;
+}
+
+.carte{
+    width: 100%;
+}
